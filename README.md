@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://github.com/N40h/product-preview-card-component)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/product-preview-card-component-using-flexbox-LTDPhHHF43)
 - Live Site URL: [Live Site](https://tangerine-pastelito-ab4e47.netlify.app/)
 
 ## My process
