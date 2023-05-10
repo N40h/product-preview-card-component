@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution](https://github.com/N40h/product-preview-card-component)
-- Live Site URL: [Live Site](https://your-live-site-url.com)
+- Live Site URL: [Live Site](https://tangerine-pastelito-ab4e47.netlify.app/)
 
 ## My process
 
